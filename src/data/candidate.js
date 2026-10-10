@@ -218,7 +218,7 @@ export const certs = [
 ];
 
 export const dsa = {
-  leetcode: '300+',
+  leetcode: '400+',
   gfg: '200+',
   focusAreas: ['Arrays', 'Trees', 'DP', 'Graphs', 'System Design'],
 };
@@ -228,19 +228,19 @@ export const services = [
   { title: 'Backend Systems', desc: 'APIs, Auth (JWT/OAuth), Database Design, Rate Limiting, WebSocket real-time engines.' },
   { title: 'AI/ML Integration', desc: 'OCR, NLP, Voice Search, AI Image Generation — integrate intelligent features into products.' },
   { title: 'Cloud Deployment', desc: 'Docker, Google Cloud Run, CI/CD pipelines — production-grade DevOps.' },
-  { title: 'DSA Mentoring', desc: 'LeetCode 300+ — 1-on-1 sessions on arrays, trees, DP, graphs, and system design.' },
+  { title: 'DSA Mentoring', desc: 'LeetCode 400+ — 1-on-1 sessions on arrays, trees, DP, graphs, and system design.' },
   { title: 'Code Review', desc: 'PR reviews, architecture audits, performance optimization for Node.js & React codebases.' },
 ];
 
 export const about = {
-  leetcodeProblems: 300,
+  leetcodeProblems: 400,
   gfgProblems: 200,
   headline: 'Building products that solve real problems',
   bio1: 'I am Dhiraj Kumar, a software engineer and full-stack developer with hands-on experience building production-grade web applications. Currently pursuing B.Tech in Computer Science & Engineering at Gurukul Kangri University, my work spans React, Node.js, and cloud architecture.',
   bio2: 'I\'ve shipped three production products — from a jewellery inventory management system with ₹8.5L monthly GMV to a wholesale B2B platform serving 50+ retailers. My work spans RBAC auth systems, WebSocket real-time engines, OCR pipelines, and AI/ML integrations.',
-  bio3: 'When I\'m not coding, I explore the intersection of artificial intelligence, automation, and agentic systems. I share my learnings through technical writing and open-source contributions. I\'ve solved 300+ LeetCode problems and hold certifications from IIT Kharagpur, Microsoft, and Google Cloud.',
+  bio3: 'When I\'m not coding, I explore the intersection of artificial intelligence, automation, and agentic systems. I share my learnings through technical writing and open-source contributions. I\'ve solved 400+ LeetCode problems and hold certifications from IIT Kharagpur, Microsoft, and Google Cloud.',
   highlights: [
-    { value: '300+', label: 'LeetCode Problems' },
+    { value: '400+', label: 'LeetCode Problems' },
     { value: '3', label: 'Production Apps Shipped' },
     { value: '50+', label: 'Retailers Served' },
     { value: '8', label: 'Certifications' },
@@ -333,20 +333,20 @@ jobs:
     ],
   },
   {
-    slug: 'leetcode-300-problems-journey',
-    title: 'My Journey Solving 300+ LeetCode Problems: Tips for Beginners',
+    slug: 'leetcode-400-problems-journey',
+    title: 'My Journey Solving 400+ LeetCode Problems: Tips for Beginners',
     date: '2025-10-05',
     readTime: '7 min read',
     tags: ['DSA', 'LeetCode', 'Career Growth', 'Java', 'C++'],
     excerpt: 'From struggling with Two Sum to confidently solving DP and Graph problems — my 18-month DSA journey, study strategies, and practical advice for anyone starting their LeetCode grind.',
     content: [
-      { type: 'p', text: 'In May 2024, I opened LeetCode for the first time. I stared at Two Sum for 45 minutes before looking at the solution. Eighteen months and 300+ problems later, I can solve most medium problems in 20-30 minutes. This is how I got there.' },
+      { type: 'p', text: 'In May 2024, I opened LeetCode for the first time. I stared at Two Sum for 45 minutes before looking at the solution. Eighteen months and 400+ problems later, I can solve most medium problems in 20-30 minutes. This is how I got there.' },
       { type: 'h2', text: 'Phase 1: Building Foundations (0–100 problems)' },
       { type: 'p', text: 'I started with the wrong approach — jumping into random problems without pattern recognition. After two weeks of frustration, I switched to a structured plan: master one data structure at a time. Arrays → Strings → HashMaps → Linked Lists → Stacks/Queues.' },
       { type: 'ul', items: ['Solved 4–5 Easy problems daily for the first month', 'Focused on understanding O(n) vs O(n²) tradeoffs', 'Used NeetCode 150 as my primary resource', 'Wrote down the approach before writing any code'] },
       { type: 'h2', text: 'Phase 2: Pattern Recognition (100–200 problems)' },
       { type: 'p', text: 'This is where the magic happens. I stopped seeing individual problems and started recognizing patterns: sliding window, two-pointer, fast-slow pointer, BFS vs DFS, backtracking templates. I created a Notion database tagging every problem with its pattern.' },
-      { type: 'h2', text: 'Phase 3: Medium/Hard & Contests (200–300+)' },
+      { type: 'h2', text: 'Phase 3: Medium/Hard & Contests (200–400+)' },
       { type: 'p', text: 'Started participating in weekly contests. The time pressure is humbling — you learn to think fast. I also began tackling DP systematically: 1D DP → 2D DP → Knapsack variations → LCS → Matrix Chain. For graphs, Dijkstra and Union-Find became second nature.' },
       { type: 'code', text: `// My go-to BFS template (solves 90% of graph problems)
 function bfs(graph, start) {

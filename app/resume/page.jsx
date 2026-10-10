@@ -6,7 +6,7 @@ import { GithubIcon as Github, LinkedInIcon as Linkedin } from '@/src/components
 
 export const metadata = {
   title: `Resume | ${candidate.name} — Software Developer & Full-Stack Engineer`,
-  description: `Official resume of Dhiraj Kumar — Software Developer & Full-Stack Engineer. B.Tech CSE (CGPA 8.88), MERN stack specialist, 300+ LeetCode problems solved.`,
+  description: `Official resume of Dhiraj Kumar — Software Developer & Full-Stack Engineer. B.Tech CSE (CGPA 8.88), MERN stack specialist, 400+ LeetCode problems solved.`,
   alternates: {
     canonical: 'https://dhirajkumar.me/resume',
   },
