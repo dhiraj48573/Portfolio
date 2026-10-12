@@ -40,6 +40,11 @@ export const metadata = {
   alternates: {
     canonical: 'https://dhirajkumar.me',
   },
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+    apple: '/favicon.svg',
+  },
   openGraph: {
     title: 'Dhiraj Kumar | Software Engineer & Full-Stack Developer',
     description:
